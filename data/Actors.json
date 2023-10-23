@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"1","characterIndex":0,"characterName":"1","classId":2,"equips":[2,0,0,0,0],"faceIndex":0,"faceName":"1","traits":[],"initialLevel":1,"maxLevel":99,"name":"丁爱宁","nickname":"丁丁","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"Actor3","classId":9,"equips":[8,0,0,0,74],"faceIndex":1,"faceName":"Actor3","traits":[],"initialLevel":20,"maxLevel":99,"name":"静姐","nickname":"","note":"","profile":"丁爱宁的妈妈"},
+{"id":3,"battlerName":"","characterIndex":1,"characterName":"Evil","classId":7,"equips":[37,0,0,0,0],"faceIndex":1,"faceName":"Evil","traits":[],"initialLevel":25,"maxLevel":99,"name":"爸爸","nickname":"","note":"","profile":"丁爱宁的爸爸"},
+{"id":4,"battlerName":"SF_Actor1_5","characterIndex":4,"characterName":"SF_Actor1","classId":1,"equips":[1,0,0,0,0],"faceIndex":4,"faceName":"SF_Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"张起灵","nickname":"","note":"","profile":"张姨的儿子，【战神】张起灵"},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
